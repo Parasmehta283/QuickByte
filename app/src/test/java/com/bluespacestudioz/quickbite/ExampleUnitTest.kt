@@ -1,4 +1,4 @@
-package com.bluespacestudioz.quickbyte
+package com.bluespacestudioz.quickbite
 
 import org.junit.Test
 

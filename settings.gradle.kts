@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "QuickByte"
+rootProject.name = "QuickBite"
 include(":app")
  
