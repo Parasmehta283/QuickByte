@@ -44,3 +44,22 @@ val QuickBiteOnErrorContainer = Color(0xFF410002)
 val QuickBiteSuccess = Color(0xFF2E7D32)
 val QuickBiteWarning = Color(0xFFA15C00)
 val QuickBiteOutOfStock = Color(0xFFB3261E)
+
+// Login screen palette
+val LoginOrange = Color(0xFFFF6815)
+val LoginInk = Color(0xFF101114)
+val LoginGray = Color(0xFF85858D)
+val LoginBrandText = Color(0xFF262626)
+val LoginTagline = Color(0xFF64646B)
+val LoginFieldBackground = Color(0xFFF6F6F8)
+val LoginFieldBorder = Color(0xFFE3E4E9)
+val LoginFieldIcon = Color(0xFF62646B)
+val LoginError = Color(0xFFB3261E)
+val LoginDivider = Color(0xFFCACBD1)
+
+// Signup fields
+val SignupFieldBackground = Color(0xFFF3F4F6)
+val SignupFieldBorder = Color.Transparent
+
+// Password reset action
+val ForgotPasswordAccent = Color(0xFFE66708)
